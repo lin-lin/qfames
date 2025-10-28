@@ -1,6 +1,7 @@
 # QFAMES: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra
 
-This repository includes code and data needed to produce the results in the work
+This repository includes code and data needed to produce the results in the work:
+
 Ding, Z., Lin, L., Yang, Y., and Zhang, R., 2025. *Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra.* arXiv:2510.07439
 
 ---
